@@ -1,0 +1,2 @@
+# Skripsi
+Kodingan Skripsiku
